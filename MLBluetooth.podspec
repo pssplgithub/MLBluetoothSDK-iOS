@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name              = 'MLBluetooth'
     s.version           = '4.0.0'
     s.summary           = 'Master Lock Bluetooth SDK for Connected Products'
-    s.homepage          = ''
+    s.homepage          = 'https://masterlockvault.com'
     s.license           = { :type => 'Custom', :file => 'LICENSE' }
     s.authors           = 'The Master Lock Company'
     s.platform          = :ios
