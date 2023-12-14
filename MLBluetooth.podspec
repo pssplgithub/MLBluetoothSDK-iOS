@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
     s.swift_version = "5.3"
 
-    s.ios.deployment_target = '12.0'
+    s.ios.deployment_target = '14.0'
     s.ios.vendored_frameworks = 'MLBluetooth.xcframework'
 
     s.watchos.deployment_target = '7.0'
